@@ -66,7 +66,8 @@ This introduction presents the **Speden Spelit** device, which combines the exci
 
 
 •	**Video Presentation:** A practical demonstration showing the completed device in action.
-https://youtu.be/qdzAhDunAkY
+
+[![Speden Spelit](https://github.com/user-attachments/assets/4d97ec0c-ffa7-4fa9-9d67-6a3f4bffa6d1)](https://youtu.be/qdzAhDunAkY)
 
 # Assembly
 **Required Components:**
