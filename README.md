@@ -11,9 +11,7 @@ During gameplay, the 7-segment displays indicate the game’s progress with the 
 
 This introduction presents the **Speden Spelit** device, which combines the excitement of a traditional game with modern electronics. The project was carried out as part of the *Tietotekniikan sovellusprojekti* (Application Project in Information Technology) course at Oulu University of Applied Sciences.
 
-
-
-![promo2](https://github.com/user-attachments/assets/f8ad9e48-5bbe-4b00-b72d-6d8116a723de)
+![1](https://github.com/user-attachments/assets/972f775d-fa83-44dd-84c2-7fb483852759)
 
 # Contents
 
@@ -52,18 +50,15 @@ This introduction presents the **Speden Spelit** device, which combines the exci
 
 •	**Circuit Diagram:** The project includes a circuit diagram that shows how the game’s electronic components, such as buttons, LEDs, buzzers, 7-segment displays, and shift registers, are connected to the Arduino.
 
-<img width="1124" alt="Screenshot 2024-10-15 at 15 12 37" src="https://github.com/user-attachments/assets/fcd38a9b-6b49-4dce-ad9e-ea7b2446d286">
+<img width="1124" alt="2" src="https://github.com/user-attachments/assets/fdcec1b4-6a93-47dd-b74c-f7c8c90cf9d2">
 
 •	**Flowchart:** Explains the game’s logic and the interaction between different functions, helping to visualize the game’s flow.
 
-<img width="787" alt="Spedenspelit_english" src="https://github.com/user-attachments/assets/6ebe7708-4461-40f4-a58c-2f507c9a2840">
-
-
+<img width="787" alt="3" src="https://github.com/user-attachments/assets/786354c4-ffe6-432b-a14f-b9b293479e85">
 
 •	**Code Files:** The program code is divided into modular sections, such as handling buttons, displays, score calculation, and sound effects.
 
-<img width="211" alt="Screenshot 2024-10-15 at 15 40 37" src="https://github.com/user-attachments/assets/ef2d5b4e-e004-434c-86c5-8dccc8ac24fa">
-
+<img width="211" alt="4" src="https://github.com/user-attachments/assets/a2333cb6-ac4f-4f7d-af6a-d5d04d475aa9">
 
 •	**Video Presentation:** A practical demonstration showing the completed device in action. *Click the video below to watch:*
 
@@ -92,13 +87,11 @@ This introduction presents the **Speden Spelit** device, which combines the exci
 
 • If preferred, you can also solder the components to a printed circuit board (PCB) and enclose the device in a case.
 
-
-![Mediasisältö](https://github.com/user-attachments/assets/0fc59c87-1206-473f-9d1a-f863519c6c72)
+![5](https://github.com/user-attachments/assets/3250fbfd-de2d-4554-a712-91ae9ffd2afe)
 
 # Serial Monitor Event Tracking:
 
-<img width="268" alt="Screenshot 2024-10-11 at 14 09 56" src="https://github.com/user-attachments/assets/fc799035-19d4-499e-88e8-967aa2689f7c">
-
+<img width="268" alt="6" src="https://github.com/user-attachments/assets/bb9debc5-5b6b-4e53-9b15-17d240e1b2f7">
 
 •	**Connections:** The wiring must be done according to the circuit diagram to ensure the game works as intended by the software code. Special attention is needed with the buttons and LEDs to ensure they are connected to the correct ports on the Arduino.
 
