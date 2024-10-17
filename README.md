@@ -3,7 +3,7 @@
 
 **Speden Spelit** is an Arduino-based reaction and speed game, inspired by the Finnish TV show of the same name from the 1990s. The player’s goal is to collect points by pressing the button corresponding to the lit LED as quickly as possible.
 
-The device is assembled using Arduino and several components, such as shift registers, 7-segment displays, a speaker, LEDs, and resistors, following a circuit diagram. All components are carefully soldered, installed in a case, and tested for functionality. The Arduino power cable is the only external physical element. The code is modularly programmed, making it easy to extend the game’s features as needed.
+The device is assembled using Arduino and several components, such as shift registers, 7-segment displays, a speaker, LEDs, and resistors, following a circuit diagram. All components are carefully soldered, installed in a case, and tested for functionality. The code is modularly programmed, making it easy to extend the game’s features as needed.
 
 The game starts by holding the start button for 2 seconds. After that, a start sound plays, and the first LED lights up. The player’s objective is to press the correct button as soon as the corresponding light turns on. After every 10 successful presses, the LED blink speed increases by 10%. The game ends if the player presses the wrong button or fails to press the correct button in time.
 
@@ -104,7 +104,7 @@ This introduction presents the **Speden Spelit** device, which combines the exci
 
 •	**Software Requirements:** You will need the Arduino IDE installed on your computer. Through the IDE, you can upload all files directly to the Arduino.
 
-•	**Uploading Code:** Upload the program code from the SpedenSpelit_v2_6.ino file, and make sure to include the necessary .cpp and .h files.
+•	**Uploading Code:** Upload the program code from the SpedenSpelit.ino file, and make sure to include the necessary .cpp and .h files.
 
 # MIT License
 
