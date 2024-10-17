@@ -56,7 +56,7 @@ This introduction presents the **Speden Spelit** device, which combines the exci
 
 •	**Flowchart:** Explains the game’s logic and the interaction between different functions, helping to visualize the game’s flow.
 
-<img width="787" alt="Spedenpelit_english" src="https://github.com/user-attachments/assets/6ebe7708-4461-40f4-a58c-2f507c9a2840">
+<img width="787" alt="Spedenspelit_english" src="https://github.com/user-attachments/assets/6ebe7708-4461-40f4-a58c-2f507c9a2840">
 
 
 
